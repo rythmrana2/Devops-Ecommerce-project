@@ -8,6 +8,9 @@
 * [Logic](#logic) 
 
 ## Requirements
+* MySQL Server (Version: 8.0.21 or higher)
+* PHP
+
 ## About The Project
 This project consists of HTML, CSS, BOOTSTRAP, PHP and MYSQLI code.The project is structured as follows:
 1) HTML , CSS AND BOOTSTRAP: used to design the look of each page of the website.
