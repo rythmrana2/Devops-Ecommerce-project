@@ -5,7 +5,7 @@
 * [Requirements](#requirements)
 * [About The Project](#about-the-project)
 * [Structure Of The Project](#structure-of-the-project)
-* [Logic](#logic) 
+
 
 ## Requirements
 * MySQL Server (Version: 8.0.21 or higher)
@@ -39,4 +39,3 @@ The success page informs the user that his/her order has been accepted and his i
 This page will contain only one row. The row will consist of one column containing a form. Here, we again implement form validation. If the user enters different passwords in the fields ‘New Password’ and ‘Retype New Password’, a message is shown that the passwords don’t match. If the user enters the incorrect ‘Old
 Password’, an error message is displayed indicating that he/she has entered the wrong password. If the user fills the three fields correctly, his/her password is updated. The form uses form injection to reduce security threats.
 
-## Logic
