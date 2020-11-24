@@ -5,8 +5,7 @@
 * [Requirements](#requirements)
 * [About The Project](#about-the-project)
 * [Structure Of The Project](#structure-of-the-project)
-* [Logic](#logic)
-* Screenshots Of The Pages 
+* [Logic](#logic) 
 
 ## Requirements
 ## About The Project
